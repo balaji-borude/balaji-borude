@@ -9,7 +9,9 @@ I'm a Full Stack Engineer with a passion for Web development, Devops and Open So
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Devops
 - 💬 Ask me about MERN, DSA
-- 📫 Reach me: [balajiborude2503@gmail.com](mailto:your.email@example.com)
+- 📫 Reach me:
+- Email     : [balajiborude2503@gmail.com](mailto:your.email@example.com)
+- Portfolio : https://balaji-portfo1io.netlify.app/
 
 ---
 
