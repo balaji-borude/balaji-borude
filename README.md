@@ -11,7 +11,7 @@ I'm a Full Stack Engineer with a passion for Web development, Devops and Open So
 - 💬 Ask me about MERN, DSA
 - 📫 Reach me:
 - Email     : [balajiborude2503@gmail.com](mailto:your.email@example.com)
-- Portfolio : https://balaji-portfo1io.netlify.app/
+- Portfolio :https://portfolio-beta-jet-10.vercel.app/
 
 ---
 
