@@ -29,7 +29,8 @@ I'm a Full Stack Engineer with a passion for Web development, Devops and Open So
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-borude&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-borude&layout=compact&theme=radical&exclude_repo=college_Scrapping_Script" />
+
 
 </p>
 
